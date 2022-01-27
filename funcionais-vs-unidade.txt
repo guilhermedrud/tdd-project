@@ -1,0 +1,3 @@
+- Os testes de unidade são escritos da perspectiva dos programadores enquanto os testes funcionais são escritos da perspectiva do usuário.
+- Um teste de unidade testa uma unidade de comportamento independente e um teste funcional testa uma parte independente da funcionalidade.
+
